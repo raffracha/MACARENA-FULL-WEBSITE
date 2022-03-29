@@ -1,0 +1,36 @@
+*{
+    margin: o;
+    padding: 0;
+    /*box-sizing: border-box;*/
+}
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(./backery.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+}
+h1{    
+    font-weight: 400;
+    font-size: 60px;
+    text-align: center;
+    color: rgb(255, 215, 0);
+    font-family: 'Times New Roman';
+}
+p{
+    font-family: Arial;
+    font-weight: 100;
+    font-size: 50px;
+    text-align: center;
+    color: rgb(255, 215, 0);
+}
+.container{
+    background-color: gray;
+    align-items: center;
+}
+.form{
+    color: white;
+    margin-right: 300px;
+    
+}
